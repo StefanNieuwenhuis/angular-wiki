@@ -37,7 +37,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 })
 ```
 
-Now that the project is set up, it must be configured to include the CSS for a theme. Angular Material ships with some prebuilt theming, which is located in `node_modules/@angular/material/core/theming/prebuilt`.
+Now that the project is set up, it must be configured to include the CSS for a theme. Angular Material ships with some prebuilt theming, which is located in `node_modules/@angular/material/prebuilt-themes/`.
 
 To add an angular CSS theme and material icons to your app...
 ```sass
